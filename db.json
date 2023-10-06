@@ -1,1 +1,19 @@
- { "cursos": [ { "id": "2w1", "title": "Curso Tarde", "q_alumnos": 50 }, { "id": "2w2", "title": "Curso Noche", "q_alumnos": 46 } ] } 
+{
+  "carTypes": [
+    {
+      "id": 1,
+      "name": "Sedán",
+      "description": "Un sedán es un tipo de automóvil de cuatro puertas con un compartimiento de pasajeros separado del maletero."
+    },
+    {
+      "id": 2,
+      "name": "SUV",
+      "description": "Un SUV (vehículo utilitario deportivo) es un automóvil más grande diseñado para transportar a más personas y carga. Tiene una carrocería más alta y puede tener tracción en las cuatro ruedas."
+    },
+    {
+      "id": 3,
+      "name": "Coupé",
+      "description": "Un coupé es un automóvil de dos puertas con un techo inclinado y un aspecto deportivo."
+    }
+  ]
+}
