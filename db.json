@@ -1,59 +1,56 @@
-
-  {
-    "carTypes": [
-      {
-        "id": 1,
-        "name": "Sedán",
-        "description": "Un sedán es un tipo de automóvil de cuatro puertas con un compartimiento de pasajeros separado del maletero."
-      },
-      {
-        "id": 2,
-        "name": "SUV",
-        "description": "Un SUV (vehículo utilitario deportivo) es un automóvil más grande diseñado para transportar a más personas y carga. Tiene una carrocería más alta y puede tener tracción en las cuatro ruedas."
-      },
-      {
-        "id": 3,
-        "name": "Coupé",
-        "description": "Un coupé es un automóvil de dos puertas con un techo inclinado y un aspecto deportivo."
-      }
-    ]
-  },
-  {
-    "cars": [
-      {
-          "id": 1,
-          "make": "Toyota",
-          "model": "Camry",
-          "year": 2022,
-          "carTypeId": 3
-      },
-      {
-          "id": 2,
-          "make": "Honda",
-          "model": "Civic",
-          "year": 2021,
-          "carTypeId": 3
-      },
-      {
-          "id": 3,
-          "make": "Ford",
-          "model": "F-150",
-          "year": 2022,
-          "carTypeId": 4
-      },
-      {
-          "id": 4,
-          "make": "Tesla",
-          "model": "Model 3",
-          "year": 2022,
-          "carTypeId": 1
-      },
-      {
-          "id": 5,
-          "make": "Chevrolet",
-          "model": "Malibu",
-          "year": 2023,
-          "carTypeId": 3
-      }
-    ]
-  }
+{
+  "carTypes": [
+    {
+      "id": 1,
+      "name": "Sedán",
+      "description": "Un sedán es un tipo de automóvil de cuatro puertas con un compartimiento de pasajeros separado del maletero."
+    },
+    {
+      "id": 2,
+      "name": "SUV",
+      "description": "Un SUV (vehículo utilitario deportivo) es un automóvil más grande diseñado para transportar a más personas y carga. Tiene una carrocería más alta y puede tener tracción en las cuatro ruedas."
+    },
+    {
+      "id": 3,
+      "name": "Coupé",
+      "description": "Un coupé es un automóvil de dos puertas con un techo inclinado y un aspecto deportivo."
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "carTypeId": 3
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "carTypeId": 3
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "carTypeId": 4
+    },
+    {
+      "id": 4,
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2022,
+      "carTypeId": 1
+    },
+    {
+      "id": 5,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2023,
+      "carTypeId": 3
+    }
+  ]
+}
